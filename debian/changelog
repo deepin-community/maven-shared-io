@@ -1,3 +1,13 @@
+maven-shared-io (3.0.0-4) unstable; urgency=medium
+
+  * Removed the -java-doc package
+  * Standards-Version updated to 4.6.2
+  * Switch to debhelper level 13
+  * Use salsa.debian.org Vcs-* URLs
+  * Track and download the new releases from GitHub
+
+ -- Emmanuel Bourg <ebourg@apache.org>  Tue, 10 Jan 2023 17:43:00 +0100
+
 maven-shared-io (3.0.0-3) unstable; urgency=medium
 
   * Team upload.
